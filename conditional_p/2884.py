@@ -1,4 +1,5 @@
-#입력하는 방식을 확인해야함
+#baekjoon conditional 2884
+#시간을 입력받고 45분 전으로 출력하는 방식으로 구현
 h, m = map(int, input().split())
 if m>=45:
     print(h, m-45)
