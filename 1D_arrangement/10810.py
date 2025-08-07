@@ -1,4 +1,4 @@
-#baekjoon one dimensional ordering 10810
+#baekjoon one dimensional ordering 10810 8/4
 #두 수를 받고 for문을 이용해서 i,j,k를 입력받고 리스트에 k를 반복해서 다시 올리는 방식으로 구현
 a, b = map(int, input().split())
 list1=[0]*a

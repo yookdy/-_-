@@ -1,4 +1,4 @@
-#baekjoon conditional 2884
+#baekjoon conditional 2884 7/29
 #시간을 입력받고 45분 전으로 출력하는 방식으로 구현
 h, m = map(int, input().split())
 if m>=45:

@@ -1,4 +1,4 @@
-#baekjoon repetitive statement 11021.py
+#baekjoon repetitive statement 11021.py 8/6
 #map을 이용해서 두 수를 받고 그 길이 만큼 반복문을 돌리고 문자열 포멧팅을 이용해서 인덱스 번호와 합을 출력하는 방식으로 구현
 T=int(input())
 list1=[]
