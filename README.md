@@ -1,3 +1,3 @@
 # algorithm_sol
-everyday solve the algorithm question and explain it
+everyday solve the algorithm question, explain it and repost it in github
 
