@@ -1,3 +1,4 @@
-n=(input())
-pri=list(n)
-print(len(n))
+n=int(input())
+s=input()
+list1=list(s)
+print(list1)
