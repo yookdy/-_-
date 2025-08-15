@@ -1,4 +1,4 @@
-n=int(input())
-s=input()
-list1=list(s)
-print(list1)
+w=input()
+p=["e"]
+if p[0] in w:
+    print(1)
