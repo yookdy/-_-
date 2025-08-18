@@ -1,3 +1,3 @@
-t="fdsaf"
-r=t+"f"
-print(r)
+
+lst = list(map(int, input().split()))
+print(lst)
