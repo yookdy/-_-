@@ -1,3 +1,6 @@
+// baekjoon DeepenTwo 2108 26/03/09
+// 각각의 평균, 중앙값, 최빈값, 범위를 구하는 문제로 for문, if문을 이용해서 각각의 경우를 나눠서 수를 구하는 방식으로 구현
+
 #include <stdio.h>
 
 int main(void) {

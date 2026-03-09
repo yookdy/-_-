@@ -1,3 +1,5 @@
+# baekjoon DeepenTwo 2108 26/03/09
+# 각각의 평균, 중앙값, 최빈값, 범위를 구하는 문제로 파이썬 메서드를 사용하여 각각의 경우를 나눠서 수를 구하는 방식으로 구현
 import sys
 
 input = sys.stdin.readline
